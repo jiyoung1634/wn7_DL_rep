@@ -1,4 +1,13 @@
 .env
-sample.png
-mnist_train
-YellowLabradorLooking_new.jpg
+*.png
+mnist_train/*
+*.jpg
+*.jpeg
+data.yaml
+Rock Paper Scissors SXSW.v14i.yolov8/*
+
+*.txt
+runs/*
+datasets/*
+*.pt
+*.cache
