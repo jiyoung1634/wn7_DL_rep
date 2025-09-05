@@ -11,3 +11,7 @@ runs/*
 datasets/*
 *.pt
 *.cache
+
+results/*
+*.json
+model.*
